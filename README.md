@@ -16,6 +16,7 @@ _It contains the important CPP algorithms with their implementation_
    - [Range Sum Query in n* log n by Segment trees](https://github.com/catchharsh/CPP-Algorithms/blob/master/rangesum.cpp)
    - [Finding the subtree size and other queries using euler path technique](https://github.com/catchharsh/CPP-Algorithms/blob/master/treedp.cpp)
    - [Merge Sort trees using Segment trees for range queries](https://github.com/catchharsh/CPP-Algorithms/blob/master/merge%20sort%20tree.cpp)
+   - [BIT Tree](https://github.com/catchharsh/Algorithm-Library/blob/master/BIT%20Tree.cpp)
   
  - Graph
    - [Disjoint Set Union for graphs](https://github.com/catchharsh/CPP-Algorithms/blob/master/Disjoint%20Set%20Union.cpp)
