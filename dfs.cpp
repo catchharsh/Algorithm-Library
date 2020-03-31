@@ -34,7 +34,7 @@ int main()
      {
        if(visit[i]==1)
        {
-         cout << i+1 << " is reachable from u"<<endl;
+         cout << i+1 << " is reachable from "<<u<<endl;
        }
      }
   }
